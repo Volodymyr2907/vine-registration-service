@@ -1,6 +1,5 @@
 
-# Vine Service
-
+# Vine Registration Service
 
 Spring boot application for providing eureka registration server for Vine PET project 
 
