@@ -1,7 +1,7 @@
 
 # Vine Registration Service
 
-Spring boot application for providing eureka registration server for Vine PET project 
+Spring boot application that provides eureka registration server for Vine PET project 
 
 ## Service Requirements
 
